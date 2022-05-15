@@ -1,0 +1,823 @@
+# Translation of Themes - Promos in Russian
+# This file is distributed under the same license as the Themes - Promos package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-24 07:09:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Promos\n"
+
+#. Description of the theme
+msgid "Promos is a theme for blog. It is a free feminine WordPress theme with tons of settings and useful sections. This theme is the awesome and minimal theme. This theme has search option, off-canvas sidebar, multiple sidebar options, footer options, featured slider, promo boxed, footer widgets and many more. Besides that, this theme comes with added custom widgets for author information, featured posts, social icons, etc. It comes with primary color option to change the whole site color with a single click. https://templatesell.net/demo/promos/"
+msgstr "Promos - тема для блога. Это бесплатная женственная тема WordPress с множеством настроек и полезных разделов. Это потрясающая и минималистичная тема. Эта тема имеет параметр поиска, боковую панель вне холста, несколько параметров боковой панели, параметры подвала, настройки слайдера, виджеты подвала и многое другое. Кроме того, эта тема поставляется с дополнительными настраиваемыми виджетами для информации об авторе, избранных публикаций, социальных иконок и т. д. Она поставляется с опцией основного цвета, позволяющей изменить цвет всего сайта одним щелчком мыши. https://templatesell.net/demo/promos/"
+
+#. Theme Name of the theme
+msgid "Promos"
+msgstr "Promos"
+
+#: templatesell/upgrade/class-customize.php:78
+msgid "Get Support"
+msgstr "Связаться со службой поддержки"
+
+#: templatesell/upgrade/class-customize.php:76
+msgid "Unlock More Features"
+msgstr "Разблокировать больше возможностей"
+
+#: templatesell/pro-notice/pro-notice.php:153
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: templatesell/pro-notice/pro-notice.php:147
+msgid "Maybe later"
+msgstr "Может быть, позже"
+
+#: templatesell/pro-notice/pro-notice.php:142
+msgid "Upgrade To Pro"
+msgstr "Обновить до версии Pro"
+
+#. Translators: %1$s current user display name., %2$s Currently activated
+#. theme., %3$s Pro theme link., %4$s Coupon code.
+#: templatesell/pro-notice/pro-notice.php:126
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. If you need more options and access to the premium features, you can %3$s. Also, you can use the coupon code %4$s to get 20 percent discount while making the purchase. Enjoy!"
+msgstr "Привет, %1$s! Вы уже давно используете тему %2$s,и мы надеемся, что она вам нравится. Если вам нужно больше возможностей и доступ к премиум-функциям, вы можете %3$s. Кроме того, можно использовать код купона %4$s, чтобы получить 20-процентную скидку при совершении покупки. Наслаждайтесь!"
+
+#: templatesell/pro-notice/pro-notice.php:123
+msgid "upgrade to pro"
+msgstr "обновить до версии Pro"
+
+#: templatesell/about/about.php:65
+msgid "Read why Template Sell recommend Rank Math"
+msgstr "Узнайте, почему Template Sell рекомендует плагин Rank Math SEO"
+
+#: templatesell/about/about.php:65
+msgid "Here we included an affiliate link to Rank Math Plugin. If you click on the link and buy the product, we’ll receive a small fee. No worries though, you’ll still pay the standard amount without any extra cost to you."
+msgstr "Здесь мы добавили партнерскую ссылку на плагин Rank Math SEO. Если вы перейдете по ссылке и купите плагин, то мы получим небольшую комиссию. Не беспокойтесь, вы заплатите стандартную сумму без каких-либо доплат"
+
+#: templatesell/about/about.php:63
+msgid "Download Rank Math Plugin"
+msgstr "Загрузить плагин Rank Math SEO"
+
+#: templatesell/about/about.php:61
+msgid "Recommended plugin for SEO. Rank Math is the best plugin and we would like to recommend it."
+msgstr "Рекомендуемый SEO плагин. Rank Math - лучший плагин, и мы хотели бы порекомендовать его вам"
+
+#: templatesell/about/about.php:55
+msgid "Rate this theme"
+msgstr "Оцените эту тему"
+
+#: templatesell/about/about.php:53
+msgid "If you like the theme, please leave a review"
+msgstr "Если вам нравится эта тема, пожалуйста, оставьте отзыв"
+
+#: templatesell/about/about.php:47
+msgid "Documentation - Click Here"
+msgstr "Документация - Нажмите здесь"
+
+#: templatesell/about/about.php:45
+msgid "Looking for theme Documentation?"
+msgstr "Ищете документацию к теме?"
+
+#: templatesell/about/about.php:39
+msgid "Theme Options - Click Here"
+msgstr "Опции темы - Нажмите здесь"
+
+#: templatesell/about/about.php:37
+msgid "A perfect theme for blog and magazine site. With masonry layout and multiple blog page layout, this theme is the awesome and minimal theme."
+msgstr "Идеальная тема для блога и журнала. С макетом кирпичной кладки и несколькими макетами страниц блога это потрясающая и минималистичная тема."
+
+#: templatesell/about/about.php:35
+msgid "Upgrade Pro $49"
+msgstr "Обновить до версии про за $49"
+
+#: templatesell/about/about.php:10
+msgid "Promos Options"
+msgstr "Опции Promos"
+
+#: templatesell/theme-settings/top-header-options.php:88
+msgid "You can make the overlay transparent using this option. Add range from 0.1 to 1."
+msgstr "С помощью этой опции вы можете сделать цвет прозрачным. Доступный диапазон от 0,1 до 1"
+
+#: templatesell/theme-settings/top-header-options.php:87
+msgid "Header Image Overlay Color Transparent"
+msgstr "Прозрачность цвета поверх изображения заголовка"
+
+#: templatesell/theme-settings/top-header-options.php:71
+msgid "It will add the color overlay of the Header image. To make it transparent, use the below option."
+msgstr "Это добавит цвет поверх изображения заголовка. Чтобы сделать его прозрачным, используйте опцию ниже"
+
+#: templatesell/theme-settings/top-header-options.php:70
+msgid "Header Image Overlay Color"
+msgstr "Цвет поверх изображения заголовка"
+
+#: templatesell/theme-settings/top-header-options.php:46
+msgid "Adjust the header image min height height. Minimum is 50px and maximum is 500px."
+msgstr "Отрегулируйте высоту изображения заголовка. Минимум - 50 пикселей, максимум - 500 пикселей"
+
+#: templatesell/theme-settings/top-header-options.php:45
+msgid "Header Image Min Height"
+msgstr "Минимальная высота изображения заголовка"
+
+#: templatesell/theme-settings/top-header-options.php:15
+msgid "This option will add colors over the header image."
+msgstr "Эта опция добавит цвет поверх изображения заголовка"
+
+#: templatesell/theme-settings/top-header-options.php:14
+msgid "Enable Header Image Overlay Color Height"
+msgstr "Добавить цвет поверх изображения заголовка"
+
+#: templatesell/theme-settings/theme-settings.php:6
+msgid "Promos Theme Options"
+msgstr "Опции темы Promos"
+
+#: templatesell/theme-settings/sticky-sidebar-options.php:21
+msgid "Enable and Disable sticky sidebar from this section."
+msgstr "Включить и отключить липкую боковую панель"
+
+#: templatesell/theme-settings/sticky-sidebar-options.php:20
+msgid "Enable Sticky Sidebar"
+msgstr "Включить липкую боковую панель "
+
+#: templatesell/theme-settings/sticky-sidebar-options.php:7
+msgid "Sticky Sidebar Settings"
+msgstr "Настройки липкой боковой панели"
+
+#: templatesell/theme-settings/slider-options.php:64
+msgid "Choose one category to show the slider. More settings are in pro version."
+msgstr "Выберите одну из категорий для отображения в слайдере. Дополнительные настройки доступны в версии Pro"
+
+#: templatesell/theme-settings/slider-options.php:63
+msgid "Select Category For Slider"
+msgstr "Выберите категорию для слайдера "
+
+#: templatesell/theme-settings/slider-options.php:27
+msgid "You can select the category for the slider below. More Options are available on premium version."
+msgstr "Ниже вы можете выбрать категорию для слайдера. Дополнительные настройки доступны в версии Pro"
+
+#: templatesell/theme-settings/slider-options.php:26
+msgid "Enable Slider"
+msgstr "Включить слайдер "
+
+#: templatesell/theme-settings/slider-options.php:10
+msgid "Slider Settings"
+msgstr "Настройки слайдера "
+
+#: templatesell/theme-settings/single-page-options.php:128
+msgid "You can hide tags on single post from here."
+msgstr "Здесь вы можете скрыть отображение тегов в публикациях "
+
+#: templatesell/theme-settings/single-page-options.php:127
+msgid "Enable Tags on Single Posts"
+msgstr "Включить отображение тегов в публикациях "
+
+#: templatesell/theme-settings/single-page-options.php:111
+msgid "Enable Social Sharing on Single Posts."
+msgstr "Включить опцию \"Поделиться\" в публикациях "
+
+#: templatesell/theme-settings/single-page-options.php:110
+msgid "Social Sharing"
+msgstr "Поделиться в социальных сетях"
+
+#: templatesell/theme-settings/single-page-options.php:93
+msgid "Enter the suitable title."
+msgstr "Введите подходящий заголовок "
+
+#: templatesell/theme-settings/single-page-options.php:92
+msgid "Related Posts Title"
+msgstr "Заголовок для похожих публикаций"
+
+#: templatesell/theme-settings/single-page-options.php:61
+msgid "2 posts of same category will appear."
+msgstr "Появятся две публикации из одной и той же категории"
+
+#: templatesell/theme-settings/single-page-options.php:60
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: templatesell/theme-settings/single-page-options.php:44
+msgid "From Appearance > Customize > Widgets and add the widgets on the respected widget areas."
+msgstr "Нажмите \"Внешний вид\" > \"Настройка\" > \"Виджеты\" и добавьте виджеты в соответствующие области"
+
+#: templatesell/theme-settings/single-page-options.php:43
+msgid "Select Sidebar"
+msgstr "Выберите боковую панель"
+
+#: templatesell/theme-settings/single-page-options.php:23
+msgid "You can hide images on single post from here."
+msgstr "Здесь Вы можете скрыть картинки одиночной записи."
+
+#: templatesell/theme-settings/single-page-options.php:22
+msgid "Enable Featured Image on Single Posts"
+msgstr "Показывать изображения записей в одиночных записях"
+
+#: templatesell/theme-settings/single-page-options.php:9
+msgid "Single Page Settings"
+msgstr "Настройки отдельной страницы"
+
+#: templatesell/theme-settings/logo-options.php:11
+msgid "Adjust the logo width. Minimum is 100px and maximum is 700px."
+msgstr "Подгоните ширину логотипа. Минимум 100 пикселей, максимум -- 700."
+
+#: templatesell/theme-settings/logo-options.php:10
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: templatesell/theme-settings/header-options.php:94
+msgid "In the Mobile view mode, you can see Menu text. Change this text from here. It will only available on the mobile view mode."
+msgstr "При мобильном просмотре вы увидите текст меню. Измените его здесь. Это будет доступно только при мобильном просмотре."
+
+#: templatesell/theme-settings/header-options.php:93
+msgid "Enter the Mobile Menu Text"
+msgstr "Введите название мобильного меню"
+
+#: templatesell/theme-settings/header-options.php:63
+msgid "You can either select the text mode or hamberger menu in mobile layout."
+msgstr "Вы можете выбрать текстовый режим или режим значка меню для мобильной версии."
+
+#: templatesell/theme-settings/header-options.php:62
+msgid "Select the Mobile Menu Type"
+msgstr "Выберите тип мобильного меню"
+
+#: templatesell/theme-settings/header-options.php:60
+msgid "Hamberger Menu in Mobile"
+msgstr "Кнопка мобильного меню в виде \"Гамбургера\" "
+
+#: templatesell/theme-settings/header-options.php:59
+msgid "Menu Text in Mobile"
+msgstr "Название мобильного меню"
+
+#: templatesell/theme-settings/header-options.php:42
+msgid "You can show the social icons here. Manage social icons from Appearance > Menus. Social Menu will display here."
+msgstr "Вы можете отобразить иконки социальных сетей здесь. Управляйте иконками социальных сетей из меню \"Внешний вид\" > \"Меню\". Здесь отобразится меню социальных сетей"
+
+#: templatesell/theme-settings/header-options.php:41
+msgid "Enable Social Icons"
+msgstr "Включить иконки социальных сетей "
+
+#: templatesell/theme-settings/header-options.php:24
+msgid "It will help to display the search in Menu."
+msgstr "Это поможет отобразить \"Поиск\" в меню"
+
+#: templatesell/theme-settings/header-options.php:23
+msgid "Enable Search"
+msgstr "Включить \"Поиск\""
+
+#: templatesell/theme-settings/header-options.php:9
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: templatesell/theme-settings/footer-options.php:22
+msgid "Enter your own copyright text."
+msgstr "Введите ваш текст авторских прав"
+
+#: templatesell/theme-settings/footer-options.php:21
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: templatesell/theme-settings/footer-options.php:7
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: templatesell/theme-settings/color-options.php:15
+msgid "Change your whole site color from here. More are available in premium version."
+msgstr "Здесь можно измените основной цвет вашего сайта. Дополнительные настройки доступны в версии Pro"
+
+#: templatesell/theme-settings/color-options.php:14
+msgid "Primary Color"
+msgstr "Основной цвет "
+
+#: templatesell/theme-settings/breadcrumb-options.php:47
+msgid "After enable the breadcrumb, you need to install Yoast SEO, Rank Math or Breadcrumb NavXT plugin for added breadcrumb option."
+msgstr "После включения опции \"Хлебные крошки\" для добавления этой опции вам понадобится установить плагин Yoast SEO, Rank Math SEO или NavXT"
+
+#: templatesell/theme-settings/breadcrumb-options.php:46
+msgid "Select the Breadcrumb"
+msgstr "Выберете \"Хлебные крошки\" "
+
+#: templatesell/theme-settings/breadcrumb-options.php:44
+msgid "NavXT Breadcrumb"
+msgstr "\"Хлебные крошки\" плагина NavXT"
+
+#: templatesell/theme-settings/breadcrumb-options.php:43
+msgid "Rank Math Plugin"
+msgstr "\"Хлебные крошки\" плагина Rank Math SEO "
+
+#: templatesell/theme-settings/breadcrumb-options.php:42
+msgid "Yoast SEO Breadcrumb"
+msgstr "\"Хлебные крошки\" плагина Yoast SEO "
+
+#: templatesell/theme-settings/breadcrumb-options.php:41
+msgid "Theme Breadcrumb"
+msgstr "\"Хлебные крошки\" темы"
+
+#: templatesell/theme-settings/breadcrumb-options.php:24
+msgid "Breadcrumb will appear on all pages except home page. More settings will be on the premium version."
+msgstr "\"Хлебные крошки\" появится на всех страницах, кроме главной. Дополнительные настройки доступны в версии Pro"
+
+#: templatesell/theme-settings/breadcrumb-options.php:23
+msgid "Enable Breadcrumb"
+msgstr "Включить \"Хлебные крошки\" "
+
+#: templatesell/theme-settings/breadcrumb-options.php:8
+msgid "Breadcrumb Settings"
+msgstr "Настройки \"Хлебных крошек\" "
+
+#: templatesell/theme-settings/boxes-options.php:61
+msgid "From the dropdown select the category for the boxes. Category having post will display in below boxes section."
+msgstr "В раскрывающемся списке выберите категорию для отображения в квадратах. Категория, в которой есть публикации, будет отображаться в квадратах ниже"
+
+#: templatesell/theme-settings/boxes-options.php:60
+msgid "Category For Boxes"
+msgstr "Рубрики для отображения в окнах"
+
+#: templatesell/theme-settings/boxes-options.php:38
+msgid "Enable and select the category to show the boxes below slider."
+msgstr "Включить и выбрать категорию для отображения в окне после слайдера"
+
+#: templatesell/theme-settings/boxes-options.php:37
+msgid "Enable Boxes"
+msgstr "Включить окна"
+
+#: templatesell/theme-settings/boxes-options.php:10
+msgid "Boxes Below Slider Settings"
+msgstr "Настройки окон после слайдера "
+
+#: templatesell/theme-settings/blog-page-options.php:231
+msgid "Option to hide the author on the blog page."
+msgstr "Возможность скрыть имя автора на странице публикации "
+
+#: templatesell/theme-settings/blog-page-options.php:230
+msgid "Show Author"
+msgstr "Показать автора"
+
+#: templatesell/theme-settings/blog-page-options.php:215
+msgid "Option to hide the date on the blog page."
+msgstr "Возможность скрыть дату на странице публикации."
+
+#: templatesell/theme-settings/blog-page-options.php:214
+msgid "Show Date"
+msgstr "Показать дату"
+
+#: templatesell/theme-settings/blog-page-options.php:199
+msgid "Option to hide the category on the blog page."
+msgstr "Возможность скрыть название категории на странице публикации."
+
+#: templatesell/theme-settings/blog-page-options.php:198
+msgid "Show Category"
+msgstr "Показать рубрику"
+
+#: templatesell/theme-settings/blog-page-options.php:182
+msgid "Options to Enable Social Share in blog and archive page."
+msgstr "Возможность включить опцию \"Поделиться\" в публикациях и архивах"
+
+#: templatesell/theme-settings/blog-page-options.php:181
+msgid "Show Social Share"
+msgstr "Показать \"Поделиться в социальных сетях\""
+
+#: templatesell/theme-settings/blog-page-options.php:164
+msgid "Enter categories ids with comma separated eg: 2,7,14,47."
+msgstr "Введите ID категорий через запятую. Например: 2,7,14,47."
+
+#: templatesell/theme-settings/blog-page-options.php:163
+msgid "Exclude categories in Blog Listing"
+msgstr "Исключить рубрики из показа в блоге"
+
+#: templatesell/theme-settings/blog-page-options.php:147
+msgid "Read more text for blog and archive page."
+msgstr "Текст ссылки \"Читать далее\" для страницы блога и архива."
+
+#: templatesell/theme-settings/blog-page-options.php:146
+msgid "Read More Text"
+msgstr "Текст кнопки \"Читать далее\""
+
+#: templatesell/theme-settings/blog-page-options.php:130
+msgid "Choose Required Pagination Type"
+msgstr "Выберите необходимый тип разбиения на страницы"
+
+#: templatesell/theme-settings/blog-page-options.php:129
+msgid "Pagination Types"
+msgstr " Тип постраничной навигации"
+
+#: templatesell/theme-settings/blog-page-options.php:127
+msgid "Default Pagination"
+msgstr "Элементов на странице"
+
+#: templatesell/theme-settings/blog-page-options.php:126
+msgid "Numeric Pagination"
+msgstr "Нумерация страниц"
+
+#: templatesell/theme-settings/blog-page-options.php:108
+msgid "Enter the number per Words to show the content in blog page."
+msgstr "Введите количество слов поста, которые покажем на странице блога."
+
+#: templatesell/theme-settings/blog-page-options.php:107
+msgid "Excerpt Length"
+msgstr "Длинна отрывка"
+
+#: templatesell/theme-settings/blog-page-options.php:89
+msgid "You can enable excerpt from Screen Options inside post section of dashboard"
+msgstr "Вы можете включить отрывок при создании записи в панели инструментов в разделе Параметры экрана"
+
+#: templatesell/theme-settings/blog-page-options.php:88
+msgid "Select Content Display From"
+msgstr "Выберите способ отображения содержимого"
+
+#: templatesell/theme-settings/blog-page-options.php:86
+msgid "Show from Content"
+msgstr "Показать из контента"
+
+#: templatesell/theme-settings/blog-page-options.php:85
+msgid "Show from Excerpt"
+msgstr "Показать из отрывка"
+
+#: templatesell/theme-settings/blog-page-options.php:68
+msgid "Once you select this full image will appear. We recommend to use the equal image size if you use original image size."
+msgstr "Как только вы выберете это изображение появится целиком. Мы рекомендуем использовать одинаковый размер изображения, если вы используете исходный размер изображения."
+
+#: templatesell/theme-settings/blog-page-options.php:67
+msgid "Cropped or Original Image in Blog Page"
+msgstr "Обрезать изображение или оставить оригинальным"
+
+#: templatesell/theme-settings/blog-page-options.php:64
+msgid "Original Full Image"
+msgstr "Оригинальное изображение"
+
+#: templatesell/theme-settings/blog-page-options.php:63
+msgid "Cropped Image"
+msgstr "Обрезанное изображение"
+
+#: templatesell/theme-settings/blog-page-options.php:47
+msgid "This will work only on Full layout Option"
+msgstr "Это будет работать только при полной компоновке"
+
+#: templatesell/theme-settings/blog-page-options.php:46
+msgid "Blog Page Layout"
+msgstr "Макет страницы блога"
+
+#: templatesell/theme-settings/blog-page-options.php:43
+msgid "Right Image"
+msgstr "Изображение справа"
+
+#: templatesell/theme-settings/blog-page-options.php:42
+msgid "Left Image"
+msgstr "Изображение слева"
+
+#: templatesell/theme-settings/blog-page-options.php:41
+msgid "Full Image"
+msgstr "Полный размер"
+
+#: templatesell/theme-settings/blog-page-options.php:24
+msgid "This sidebar will work blog and archive pages."
+msgstr "На этой боковой панели будут работать страницы блога и архива"
+
+#: templatesell/theme-settings/blog-page-options.php:23
+msgid "Blog and Archive Sidebar"
+msgstr "Блог и архивы в боковой панели"
+
+#: templatesell/theme-settings/blog-page-options.php:7
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#. translators: used between list items, there is a space after the comma
+#: templatesell/template-tags.php:76
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: templatesell/template-tags.php:59
+msgid "&nbsp;"
+msgstr "& nbsp;"
+
+#. translators: %s: post author.
+#: templatesell/template-tags.php:44
+msgctxt "post author"
+msgid "by %s"
+msgstr "от автора %s"
+
+#: templatesell/template-tags.php:30
+msgctxt "post author"
+msgid "By %s"
+msgstr "Автор %s"
+
+#: templatesell/template-functions.php:58
+msgid "%s Min Reading"
+msgid_plural "%s Min Reading"
+msgstr[0] "%s Время на прочтение"
+msgstr[1] "%s Время на прочтение"
+msgstr[2] "%s Время на прочтение"
+
+#: templatesell/hooks/social-sharing.php:31
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: templatesell/hooks/social-sharing.php:31
+msgid "Share Now"
+msgstr "Поделиться"
+
+#: templatesell/hooks/social-sharing.php:30
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: templatesell/hooks/social-sharing.php:29
+msgid "Pin it"
+msgstr "Поделиться"
+
+#: templatesell/hooks/social-sharing.php:28
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templatesell/hooks/social-sharing.php:27
+msgid "Tweet it"
+msgstr "Поделиться"
+
+#: templatesell/hooks/social-sharing.php:26
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templatesell/hooks/social-sharing.php:26
+msgid "Share it"
+msgstr "Поделиться"
+
+#: templatesell/hooks/footer.php:13
+msgid "Go to Top"
+msgstr "Наверх"
+
+#: templatesell/customizer.php:70
+msgid "&#169; All Rights Reserved 2022"
+msgstr "&#169; Все права защищены 2022"
+
+#: templatesell/customizer.php:61
+msgid "You may like"
+msgstr "Вам может понравиться"
+
+#: templatesell/customizer.php:50
+msgid "Read More"
+msgstr "Читать далее"
+
+#: templatesell/customizer.php:30
+msgid "Menu"
+msgstr "Меню"
+
+#: templatesell/customizer-category-control.php:22
+msgid "&mdash; Select Category &mdash;"
+msgstr "&mdash; Выберите категорию &mdash;"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:864
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:836
+#: templatesell/breadcrumbs/breadcrumbs.php:1265
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:835
+#: templatesell/breadcrumbs/breadcrumbs.php:891
+#: templatesell/breadcrumbs/breadcrumbs.php:1261
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:834
+#: templatesell/breadcrumbs/breadcrumbs.php:863
+#: templatesell/breadcrumbs/breadcrumbs.php:890
+#: templatesell/breadcrumbs/breadcrumbs.php:917
+#: templatesell/breadcrumbs/breadcrumbs.php:1257
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:818
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "G"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:801
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:784
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: templatesell/breadcrumbs/breadcrumbs.php:324
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: templatesell/breadcrumbs/breadcrumbs.php:322
+msgid "Minute %s"
+msgstr "Минуты %s"
+
+#. Translators: %s is the page number.
+#: templatesell/breadcrumbs/breadcrumbs.php:320
+msgid "Comment Page %s"
+msgstr "Страница комментариев %s"
+
+#. Translators: %s is the page number.
+#: templatesell/breadcrumbs/breadcrumbs.php:318
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query.
+#: templatesell/breadcrumbs/breadcrumbs.php:316
+msgid "Search results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:314
+msgid "Archives"
+msgstr "Архивы"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:313
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:312
+msgid "Home"
+msgstr "Главная"
+
+#: templatesell/breadcrumbs/breadcrumbs.php:311
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "\"Хлебные крошки\""
+
+#: templatesell/breadcrumbs/breadcrumbs.php:310
+msgid "Browse:"
+msgstr "Просмотр:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:49
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:60
+#: template-parts/content.php:100
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: search query.
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:249
+msgid "Offcanvas"
+msgstr "Вне холста"
+
+#: functions.php:239
+msgid "Footer Four"
+msgstr "Четвёртый подвал"
+
+#: functions.php:229
+msgid "Footer Three"
+msgstr "Третий подвал"
+
+#: functions.php:219
+msgid "Footer Two"
+msgstr "Второй подвал"
+
+#: functions.php:209
+msgid "Footer One"
+msgstr "Первый подвал"
+
+#: functions.php:199
+msgid "Post and Newsletter"
+msgstr "Публикации и рассылка новостей"
+
+#: functions.php:191
+msgid "You can add Mailchimp widget or other widgets here."
+msgstr "Здесь вы можете добавить виджет Mailchimp и другие"
+
+#: functions.php:189
+msgid "Widget Area Below Slider"
+msgstr "Область для виджетов под слайдером"
+
+#: functions.php:181 functions.php:201 functions.php:211 functions.php:221
+#: functions.php:231 functions.php:241 functions.php:251
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: functions.php:179
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:128
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:127
+msgid "Larger"
+msgstr "Очень большой "
+
+#: functions.php:122
+msgid "L"
+msgstr "L"
+
+#: functions.php:121
+msgid "Large"
+msgstr "Большой "
+
+#: functions.php:116
+msgid "M"
+msgstr "M"
+
+#: functions.php:115
+msgid "Medium"
+msgstr "Средний "
+
+#: functions.php:110
+msgid "S"
+msgstr "S"
+
+#: functions.php:109
+msgid "Small"
+msgstr "Маленький"
+
+#: functions.php:51
+msgid "Social Icons"
+msgstr "Иконки социальных сетей "
+
+#: functions.php:50
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:79
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментариев к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Только и думаете о &ldquo;%1$s&rdquo;"
+
+#: 404.php:25
+msgid "Back to Home"
+msgstr "Вернуться на \"Главную\""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что здесь ничего нет. Может вам стоит воспользоваться поиском?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Такой страницы не существует."
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+msgid "https://www.templatesell.com/item/promos-plus/"
+msgstr "https://www.templatesell.com/item/promos-plus/"
+
+#. Author URI of the theme
+msgid "https://www.templatesell.com/"
+msgstr "https://www.templatesell.com/"
+
+#. Author of the theme
+msgid "templatesell"
+msgstr "templatesell"
